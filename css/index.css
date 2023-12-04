@@ -594,6 +594,7 @@
   flex-direction: row-reverse;
   padding-left: 8px;
   gap: 8px;
+  justify-content: flex-end;
 }
 
 .colortext{
